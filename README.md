@@ -1,3 +1,4 @@
+# Resume of Courtney Mullins:
 My name is Courtney Mullins. I am a Business Intelligence developer and an apsiring data scientist.
 I have 4 years experience in the business intelligence industry. I work in the SAP world using mostly SAP business intelligence tools.
 I have also broadened my skillset in other technologies such as Microsoft as I make use of Microsoft Power BI for dashboard building in my field as well.
@@ -8,6 +9,15 @@ I am deeply passionate about data from source to front end. The extraction, mani
 
 What really motivates me is seeing change in the IT world. Theres always a new challenge to differentiate yourself from the rest and to keep up with the pace. The world of data is changing so fast and its always important to keep up with the skills required for the industry. This excites me as I learn everyday. You can never know too much or everything. Its a challenge always so it makes this career exciting and fast paced. I am always online looking at the latest BI tools and technologies. What makes me happy and passionate about what I do is seeing the work I produce with the help and support of team members/colleagues. You are always learning from someone else as well. You are always growing and changing. I am data driven. I am all things data.
 
+## Skills:
+Data Visualisation
+Data analysis/exporation
+Data modeling
+query building
+Process chain management
+troubleshooting of BI calls logged
+Python
+Machine learning
 
 Name: Courtney Mullins
 Contact number: +2764 682 5412
