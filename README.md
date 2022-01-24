@@ -23,7 +23,7 @@ What really motivates me is seeing change in the IT world. Theres always a new c
 Name: Courtney Mullins
 Contact number: +2764 682 5412
 email: cmullins96@gmail.com
-Linekdin: https://www.linkedin.com/in/courtney-mullins-9ab502129
+Linkedin: https://www.linkedin.com/in/courtney-mullins-9ab502129
 
 ![Courtney_Mullins](https://user-images.githubusercontent.com/78550603/149679551-e56f5392-95b8-4d44-a10d-4e6ce263003e.png)
 
